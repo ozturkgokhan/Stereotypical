@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Johnny White",
+    "company": "Design Fleet",
+    "phone": "555-444-333"
+  },
+  {
+    "id": 2,
+    "name": "Tina Black",
+    "company": "Design Fleet",
+    "phone": "555-444-332"
+  },
+  {
+    "id": 3,
+    "name": "George Brown",
+    "company": "Design Fleet",
+    "phone": "555-444-331"
+  }
+]
