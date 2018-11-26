@@ -1,0 +1,2 @@
+# Stereotypical
+Stereotypical programming exercises
